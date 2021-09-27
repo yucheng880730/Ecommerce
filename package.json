@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yucheng880730/Ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yucheng880730/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/yucheng880730/Ecommerce#readme",
+  "dependencies": {
+    "mysql2": "^2.3.0"
+  }
+}
